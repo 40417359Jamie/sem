@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e91c8b9-4ce1-4bc0-a722-d196fb2b5756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="JM" />
         <option value="40417359Jamie &lt;59879240+40417359jamie@users.noreply.github.com&gt; &lt;40417359@napier.live.ac.uk&gt;" />
       </list>
     </option>
@@ -30,6 +31,13 @@
       <set>
         <option value="C:\Users\jamie.mcintyre\IdeaProjects\seMethods\.idea" />
       </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1WOSQQzOEl25mk16VHfczj8nVSn" />
@@ -105,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579517790750</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First commit, adding initial files.">
+      <created>1579624559241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579624559241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,32 +132,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579261522298" />
-    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1579517786721">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1758" y="0" key="CommitChangelistDialog2" timestamp="1579771885993">
+      <screen x="1366" y="0" width="1600" height="860" />
     </state>
     <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579517786721" />
-    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1579020586408">
+    <state x="1758" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1579771885993" />
+    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579624553303" />
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1579687935156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579687935156" />
     <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579020586408" />
     <state x="163" y="20" width="998" height="708" key="SettingsEditor" timestamp="1579603989473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1582" y="17" key="SettingsEditor/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1579534061730" />
     <state x="163" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579603989473" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579517838154">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1688" y="115" key="Vcs.Push.Dialog.v2" timestamp="1579771905629">
+      <screen x="1366" y="0" width="1600" height="860" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579517838154" />
+    <state x="1688" y="115" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1579771905629" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579624624769" />
     <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1579103041538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579103041537" />
     <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579020762487" />
-    <state x="416" y="156" key="git4idea.merge.GitPullDialog" timestamp="1579260741973">
+    <state x="416" y="156" key="git4idea.merge.GitPullDialog" timestamp="1579688601022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="416" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579260741973" />
+    <state x="416" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1579688601022" />
     <state x="65" y="66" key="new project wizard" timestamp="1579623890527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
